@@ -11,6 +11,18 @@ This project uses a pre-trained machine learning model to evaluate patient data 
 
 ---
 
+## Accuracy of the Models and Algorithms Used
+
+| Sr No | Algorithm Used                   | Accuracy   |
+|-------|----------------------------------|------------|
+| 1     | K - Nearest Neighbor             | 97.82%     |
+| 2     | Random Forest                    | 86.95%     |
+| 3     | Ada Boost With Random Forest     | 93.47%     |
+| 4     | Gradient Boosting                | 89.91%     |
+
+---
+
+
 ## 📁 Project Structure
 
 ```
@@ -55,21 +67,35 @@ Make sure you have **Python 3.9+** installed on your system.
 
 Run the following commands in your terminal:
 
+Clone the repository
+
 ```bash
-# Clone the repository
 git clone https://github.com/your-username/heart-disease-prediction.git
-cd heart-disease-prediction
+```
 
-# Create virtual environment
+Create virtual environment
+
+```bash
 python -m venv venv
+```
 
-# Activate the virtual environment
-# For Windows:
+Activate the virtual environment
+
+For **Windows**:
+
+```bash
 venv\Scripts\activate
-# For Unix or MacOS:
-source venv/bin/activate
+```
 
-# Install dependencies
+For **Unix** or **MacOS**:
+
+```bash
+source venv/bin/activate
+```
+
+Install dependencies
+
+```bash
 pip install -r requirements.txt
 ```
 
@@ -135,3 +161,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ### ❤️ Made with care for early diagnosis and better health outcomes!
+### If you like the project, please ⭐ this repository!
