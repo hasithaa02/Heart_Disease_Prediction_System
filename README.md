@@ -112,6 +112,14 @@ Go to your browser and visit:
 
 ---
 
+## 📸 Screenshots
+
+![Home Page](Screenshots/Screenshot_1.png)
+![Details Form](Screenshots/Screenshot_2.png)
+![Prediction Result](Screenshots/result_with_heart_disease.png)
+
+---
+
 ## 👨‍💻 Author
 
 - **Hasitha Reddy Eppalapalli**  
